@@ -1,5 +1,3 @@
-# Twin-Study
-
 TopNodes.py
 -- For finding top connected nodes
 
