@@ -22,6 +22,9 @@ neural_similarity_main.py
 neural_similarity_permutation.py
 -- Data generated for estabilishing null distribution; 5000 permuted data
 
+ComputeG.R
+-- Compute G-scores
+
 neural_similarity_stats.py
 -- Results for predicting G-score differences using functional connectomes differences in twin pairs 
 
